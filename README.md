@@ -1,5 +1,6 @@
-# AboutMe
+# About Me
 ### Hey! I am Mavi Souza 
+
 ##
 <div>
   <a href="https://github.com/MaviGeneticsPhD">
